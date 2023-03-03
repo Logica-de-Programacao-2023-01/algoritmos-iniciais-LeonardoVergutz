@@ -1,0 +1,4 @@
+leia A
+leia B
+soma= A+B
+escreva soma
