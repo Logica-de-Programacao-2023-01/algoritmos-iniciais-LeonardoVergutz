@@ -1,0 +1,7 @@
+leia lista de números
+leia B
+leia P
+leia CP
+CP= B^P
+escreva CP
+
