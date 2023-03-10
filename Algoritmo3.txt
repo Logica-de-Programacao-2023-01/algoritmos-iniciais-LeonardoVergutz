@@ -1,0 +1,9 @@
+leia lista de números
+leia elemento A
+leia elemento B
+leia elemento C
+leia elemento D
+quantidade de elementos = 4
+M = (A+B+C+D)/ quantidade de elementos
+escreva M
+

@@ -1,0 +1,13 @@
+leia C
+leia F
+C= temperatura em celsius
+F= temperatura em fahreinheit
+leia A 
+se A for celsius
+então F = A x 9 + 32 / 5
+escreva F
+senão
+então C = A - 32 x 5 / 9
+escreva C
+
+
